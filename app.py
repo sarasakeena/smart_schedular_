@@ -3,7 +3,7 @@ import requests
 from datetime import date, datetime
 
 
-API_URL = " https://smart-schedular.onrender.com/generate_schedule"
+API_URL = "https://smart-schedular.onrender.com/generate_schedule"
 
 st.set_page_config(page_title="Smart Study Scheduler", layout="wide")
 st.title("📅 Smart Study Scheduler")
